@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskarGupta551
 - 👀 I’m interested in ... Artificial Intelligence 
-- 🌱 I’m currently learning ... Advanced NLP
+- 🌱 I’m currently learning ... Robotics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... guptasanskar551@gmail.com
 
