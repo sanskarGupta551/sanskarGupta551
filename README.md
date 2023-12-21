@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanskarGupta551
 - 👀 I’m interested in ... Artificial Intelligence 
 - 🌱 I’m currently learning ... Robot Vision
-- 💞️ I’m looking to collaborate on ... Aeroponic Vertical Farming (Automated)
+- 💞️ I’m looking to collaborate on ... Aeroponic Vertical Farming 
 - 📫 How to reach me ... guptasanskar551@gmail.com
 
 <!---
