@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanskarGupta551
-- 👀 I’m interested in ... Artificial Intelligence 
-- 🌱 I’m currently learning ... Robot Vision
-- 💞️ I’m looking to collaborate on ... Aeroponic Vertical Farming (Robot Automated)
+- 👀 I’m interested in ... Machine Learning Operations   
+- 🌱 I’m currently learning ... Kubernetes and Terraform
+- 💞️ I’m looking to collaborate on ... GCP MLOps Projects
 - 📫 How to reach me ... guptasanskar551@gmail.com
 
 <!---
